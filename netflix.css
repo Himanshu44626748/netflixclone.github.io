@@ -1,0 +1,150 @@
+.firstcontainer{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/3b48f428-24ed-4692-bb04-bc7771854131/7d96189e-4a66-48ad-bf08-e6f850f8463e/IN-en-20200302-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    box-shadow: inset 0px 0px 200px 200px rgba(0, 0, 0, 0.712);
+}
+.signin{
+    margin-left: 76%;
+    background-color: rgb(207, 18, 18);
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: none;
+}
+.email{
+    margin-left: 23%;
+    padding: 20px 400px 20px 10px;
+    margin-right: 0;
+    border-radius: 2px;
+    border: none;
+    display: inline-block;
+}
+.getstarted{
+    padding: 20px 80px 20px 80px;
+    background-color: rgb(207, 18, 18);
+    color: white;
+    font-weight: bolder;
+    margin-left: 0;
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+}
+.secondcontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+.enjoy{
+    float: left;
+    padding: 10%;
+}
+.tv{
+    position: relative;
+}
+.top{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    margin-top: 10%;
+}
+.below{
+    margin-top: 28%;
+    margin-left: 17%;
+}
+.thirdcontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+.phone{
+    float: left;
+}
+.download{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.watch{
+    float: left;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.fourthcontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 500px;
+}
+.apple{
+    position: relative;
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.upper{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    margin-top: 10%;
+}
+.lower{
+    margin-top: 15%;
+    margin-left: 30%;
+}
+.fifthcontainer{
+    background-color: black;
+}
+.faq{
+    padding: 20px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(44, 40, 40);
+    border: none;
+    color: white;
+    font-size: 1.5vw;
+    text-align: left;
+}
+.fa-plus{
+    float: right;
+    padding: 5px;
+    display: none;
+}
+.fa-close{
+    float: right;
+    padding: 5px;
+}
+.pannel{
+    padding: 20px;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 5px;
+    background-color: rgb(44, 40, 40);
+    border: none;
+    color: white;
+    font-size: 1.5vw;
+    text-align: left;
+    overflow: hidden;
+    display: none;
+}
+.sixthcontainer{
+    background-color: black;
+    height: 350px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 18%;
+    
+}
+.first{
+    list-style: none;
+}
+li{
+    padding: 10px 30px 10px 30px;
+    font-size: 0.9vw;
+}
